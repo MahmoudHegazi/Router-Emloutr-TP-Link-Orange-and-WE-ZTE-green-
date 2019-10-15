@@ -8,5 +8,5 @@ link it to ticket maker and to m3lomaty , this app will make the agents very sta
 
 
 <img src="router 1.JPG" alt="router imgae">
-<img src="router 2.JPG" alt="router imgae">
-<img src="router 3.JPG" alt="router imgae">
+<img src="router2.JPG" alt="router imgae">
+<img src="router3.JPG" alt="router imgae">
